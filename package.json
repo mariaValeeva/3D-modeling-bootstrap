@@ -1,0 +1,16 @@
+{
+  "name": "3d-modeling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://mariaValeeva.github.io/3D-modeling-bootstrap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
